@@ -16,8 +16,8 @@ let audios = [
 ];
 
 let images = [
- "jalsa.jpg",
-  "hit3.jpg"
+  "https://tse1.mm.bing.net/th?id=OIP.hclL56AXPuYaNOwfuUpOYgHaEK&pid=Api&P=0&h=220",
+  "https://tse1.mm.bing.net/th?id=OIP.iVcKXG64rm621oILHvZt9AHaHa&pid=Api&P=0&h=220" 
 ];
 
 let trackNames = [
